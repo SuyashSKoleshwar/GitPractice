@@ -21,7 +21,7 @@ render() {
 
             <View style={{height:50,width:"100%",backgroundColor:"#520303",top:"30%",position:"absolute",justifyContent:"center"}}>
             <Text style={{alignSelf:"center",color:"#fcfcfc"}}>
-                            Northeastern University
+                            Northeastern University Boston
             </Text>
 
 
